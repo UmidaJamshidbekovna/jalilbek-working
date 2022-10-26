@@ -1,0 +1,39 @@
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+    background-color: darkcyan;
+    color: #ffff;
+    padding: 1rem;
+}
+
+h1{
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 26px;
+}
+
+p{
+    text-align: justify;
+    line-height: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.P1{
+    text-align: right;
+    font-style: italic;
+
+}
+
+a{
+    color: grey;
+    /* border: 1px solid #000; */
+    text-decoration:none;
+    color: #000;
+}
+
+body{
+    background-image: url(../);
+}

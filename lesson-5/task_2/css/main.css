@@ -1,0 +1,29 @@
+body{
+    background-image: url(../rasm.jpg);
+}
+
+.wrapper{
+    margin: 20% 20%;
+    padding: 10px 20pxpx;
+    /* border: 1px solid #000; */
+    
+}
+
+h1{
+    /* text-transform:none; */
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 50px;
+    color: #fff;
+    font-weight: bold;
+    font-style: initial;
+}
+
+button{
+    background: none;
+    color: #fff;
+    border: 1px solid rgb(202, 236, 226);
+    width: 100px;
+    height: 40px;
+    margin-left: 350px;
+}

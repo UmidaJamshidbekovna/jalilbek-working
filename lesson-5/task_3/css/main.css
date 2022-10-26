@@ -1,0 +1,47 @@
+.wrapper{
+    margin: 0% 28%;
+    /* border: 1px solid #000; */
+}
+
+.div1{
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgba(228, 222, 222, 0.925);
+    background-image: url(../product-3\ \(2\).png); 
+    background-image: linear-gradient(#fff 50%, blue);
+    /* padding-top: 50%;  */
+    background-repeat: no-repeat;
+    
+
+}
+
+.div2{
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgba(228, 222, 222, 0.925);
+    background-repeat: repeat;
+    background-image: url(../product-4\ \(2\)\ \(2\).png);
+    background-repeat: no-repeat;
+
+}
+
+
+.div3{
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgba(228, 222, 222, 0.925);
+    background-image: url(../product-5\ \(3\).png);
+    background-repeat: no-repeat;
+}
+
+h3 , p {
+    /* margin-right: 10px;
+    margin-bottom: 10px; */
+     /* margin-left: 30%;
+    margin-top: 30%;  */
+    margin-top: 30px;
+    color: rgb(148, 137, 137);
+    border: 1px solid red;
+    
+    
+}
